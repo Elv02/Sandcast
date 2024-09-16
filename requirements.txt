@@ -1,0 +1,17 @@
+astroid==3.2.4
+autopep8==2.3.1
+dill==0.3.8
+glcontext==3.0.0
+isort==5.13.2
+mccabe==0.7.0
+moderngl==5.11.1
+moderngl-window==2.4.6
+multipledispatch==1.0.0
+numpy==1.26.4
+pillow==10.4.0
+platformdirs==4.3.3
+pycodestyle==2.12.1
+pyglet==2.0.17
+pylint==3.2.7
+pyrr==0.10.3
+tomlkit==0.13.2
